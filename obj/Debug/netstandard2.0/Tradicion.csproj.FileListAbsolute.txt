@@ -1,0 +1,15 @@
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\bin\Debug\netstandard2.0\Tradicion.deps.json
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\bin\Debug\netstandard2.0\Tradicion.dll
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\bin\Debug\netstandard2.0\ref\Tradicion.dll
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\bin\Debug\netstandard2.0\Tradicion.pdb
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.AssemblyInfoInputs.cache
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.AssemblyInfo.cs
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.dll
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\ref\Tradicion.dll
+C:\Users\Nelson\source\repos\Tradicion\Tradicion\obj\Debug\netstandard2.0\Tradicion.pdb
